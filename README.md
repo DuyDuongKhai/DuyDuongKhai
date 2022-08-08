@@ -64,11 +64,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.coursera.org/account/accomplishments/certificate/PQMJRCLM7BCQ">
-    <img alt="Python Data Structures" title="Python Data Structures" src="certificates/Coursera%20PQMJRCLM7BCQ.png" width="200px" />
+  <a href="https://coursera.org/share/e431a2f09e8424d912831b8962eee623">
+    <img alt="Web Design for Everybody: Basics of Web Development & Coding" title="Web Design for Everybody: Basics of Web Development & Coding" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~Y2RNKY2MS3RN/CERTIFICATE_LANDING_PAGE~Y2RNKY2MS3RN.jpeg" width="200px" />
   </a>
-  <a href="https://www.coursera.org/account/accomplishments/certificate/V7MK7JDL96DU">
-    <img alt="Programming for Everybody (Getting Started with Python)" title="Programming for Everybody (Getting Started with Python)" src="certificates/Coursera%20V7MK7JDL96DU.png" width="200px" />
+  <a href="https://coursera.org/share/56afccbf8951acc325a9cd048bb89650">
+    <img alt="Computer Communications" title="Computer Communications" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~JUY9RXRWN9E6/CERTIFICATE_LANDING_PAGE~JUY9RXRWN9E6.jpeg" width="200px" />
   </a>
   <a href="https://www.coursera.org/account/accomplishments/certificate/DVXXD98ESKLP">
     <img alt="Capstone: Retrieving, Processing, and Visualizing Data with Python" title="Capstone: Retrieving, Processing, and Visualizing Data with Python" src="certificates/Coursera%20DVXXD98ESKLP.png" width="200px" />
@@ -76,13 +76,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/python">
-    <img alt="Kaggle - Python" title="Kaggle - Python" src="certificates/Nguyen%20Huynh%20Minh%20Tien%20-%20Python.png" width="200px" />
-  </a>
-  <a href="https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-machine-learning">
-    <img alt="Kaggle - Intro to Machine Learning" title="Kaggle - Intro to Machine Learning" src="certificates/Nguyen%20Huynh%20Minh%20Tien%20-%20Intro%20to%20Machine%20Learning.png" width="200px" />
-  </a>
-  <a href="https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-deep-learning">
-    <img alt="Kaggle - Intro to Deep Learning" title="Kaggle - Intro to Deep Learning" src="certificates/Nguyen%20Huynh%20Minh%20Tien%20-%20Intro%20to%20Deep%20Learning.png" width="200px" />
+  <a href="https://coursera.org/share/5f35b2879c6f630bebf9ae20774115b4">
+    <img alt="Academic Skills for University Success" title="Academic Skills for University Success" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~5JZDKPCJMZLM/CERTIFICATE_LANDING_PAGE~5JZDKPCJMZLM.jpeg" width="200px" />
   </a>
 </p>
