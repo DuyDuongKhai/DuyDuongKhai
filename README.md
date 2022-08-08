@@ -4,7 +4,7 @@
 
 - I'm a student of: [FPT University](https://daihoc.fpt.edu.vn)
 
-- My major:  **SOFTWARE ENGINEERING.**
+- My major:  **SOFTWARE ENGINEERING**
 
 
 ## 📫 How to reach me:
