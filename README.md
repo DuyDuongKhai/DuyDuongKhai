@@ -24,8 +24,8 @@
 </p>
 
 ## Skills:
-<p align="center"> 
 <h3>Front-end</h3> 
+<p align="center"> 
    <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="60" height="60"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="60" height="60"/> 
    <img src="https://ih1.redbubble.net/image.382749689.2902/mp,504x498,matte,f8f8f8,t-pad,600x600,f8f8f8.u2.jpg" width="60" height="60"/>
