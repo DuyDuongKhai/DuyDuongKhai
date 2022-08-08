@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Duong Khai Duy</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h3 align="center">A passionate developer from Vietnam </h3>
+<h3 align="center">BACKEND DEVELOPER (INTERNSHIP)</h3>
 
 - ✍ I'm a student of: [FPT University](https://daihoc.fpt.edu.vn)
 
@@ -25,7 +25,8 @@
 
 ## Skills:
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
+- Front-end 
+  <img src="https://fontawesome.com/icons/html5?s=brands"  width="48" height="48"/> 
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
