@@ -70,9 +70,6 @@
   <a href="https://coursera.org/share/56afccbf8951acc325a9cd048bb89650">
     <img alt="Computer Communications" title="Computer Communications" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~JUY9RXRWN9E6/CERTIFICATE_LANDING_PAGE~JUY9RXRWN9E6.jpeg" width="200px" />
   </a>
-  <a href="https://www.coursera.org/account/accomplishments/certificate/DVXXD98ESKLP">
-    <img alt="Capstone: Retrieving, Processing, and Visualizing Data with Python" title="Capstone: Retrieving, Processing, and Visualizing Data with Python" src="certificates/Coursera%20DVXXD98ESKLP.png" width="200px" />
-  </a>
 </p>
 
 <p align="center">
