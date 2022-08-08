@@ -42,17 +42,6 @@
   <p align="center"> 
   <img src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" width="60" height="60"/>
   </p>
-
-
-<p align="center"> 
-<table style="width:100%;">
-  <tr>
-    <td>
-      <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
-      </p>
-    </td>
-  </tr>
 </table>
 
 # Certificates:
