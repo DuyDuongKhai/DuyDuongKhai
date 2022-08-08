@@ -27,11 +27,11 @@
 <p align="center">
   
 <h3 align="center">Front-end</h3>
-  
+   <tr>
   <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="60" height="60"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="60" height="60"/> 
   <img src="https://i.pinimg.com/736x/28/75/3d/28753ddf79d70042ba86564947e13bf5.jpg" width="60" height="60"/>
-  
+   </tr>
   
 <h3 align="center">Back-end</h3>
 <td>
