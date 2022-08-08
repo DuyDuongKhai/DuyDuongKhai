@@ -25,22 +25,15 @@
 
 ## Skills:
 <p align="center">
-  
-<h3 align="center">Front-end</h3>
-   
+<h3>Front-end</h3> 
   <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="60" height="60"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="60" height="60"/> 
   <img src="https://i.pinimg.com/736x/28/75/3d/28753ddf79d70042ba86564947e13bf5.jpg" width="60" height="60"/>
-   
-  <td>
-  </td>
-<h3 align="center">Back-end</h3>
-
+<h3>Back-end</h3>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-  
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
   <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
