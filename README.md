@@ -52,21 +52,14 @@
 
 # Certificates:
 
-<p align="center">
-  <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=c2f444b8-d6ce-4eef-9934-48d7fa7da2d1">
-    <img alt="MATLAB Onramp" title="MATLAB Onramp" src="certificates/MATLAB-Onramp-certificate.png" width="300px" />
-  </a>
-  <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=ad7fb8de-67d7-487f-95ee-f3871a61b1e1">
-    <img alt="Machine Learning Onramp" title="Machine Learning Onramp" src="certificates/Machine-Learning-Onramp-certificate.png" width="300px" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/EHX4V6UHX6Y5">
     <img alt="Software Development Lifecycle" title="Software Development Lifecycle" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~EHX4V6UHX6Y5/CERTIFICATE_LANDING_PAGE~EHX4V6UHX6Y5.jpeg" width="300px" />
   </a>
-  <a href="https://www.coursera.org/account/accomplishments/certificate/MBSDFCKQ9X8E">
-    <img alt="Audio Classification with TensorFlow" title="Audio Classification with TensorFlow" src="certificates/Coursera%20MBSDFCKQ9X8E.png" width="300px" />
+  
+  <a href="https://coursera.org/share/659228164cf9d6216b31835baa63f896">
+    <img alt="CertNexus Certified Ethical Emerging Technologist" title="CertNexus Certified Ethical Emerging Technologist" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~DFQWHZ6U575U/CERTIFICATE_LANDING_PAGE~DFQWHZ6U575U.jpeg" width="300px" />
   </a>
 </p>
 
