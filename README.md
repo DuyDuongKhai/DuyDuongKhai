@@ -8,26 +8,17 @@
 
 
 ## 📫 How to reach me:
-
-[![Join the chat at https://gitter.im/DuyDuongKhai/community](https://gitter.im/DuyDuongKhai/community)](https://gitter.im/DuyDuongKhai/community)
-
 <p align="center">
-  <a href="https://linkedin.com/in/tien-nhm" target="_blank">
+  <a href="https://www.linkedin.com/in/duy-d%C6%B0%C6%A1ng-738033248/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
-  <a href="https://www.facebook.com/01.tien" alt="Facebook">
+  <a href="https://www.facebook.com/profile.php?id=100024258944305" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://github.com/TienNHM" alt="Github">
+  <a href="https://github.com/DuyDuongKhai" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
-  <a href="https://www.youtube.com/channel/UCaRr1SjyHm61RrLY-DIBm1g" alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
-  </a>
-  <a href="https://www.kaggle.com/nguyenhuynhminhtien" alt="Kaggle" target="_blank" >
-    <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
-  </a>
-  <a href="mailto:tiennhm.it@gmail.com" alt="Email">
+  <a href="mailto:duongkhaiduy5@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
