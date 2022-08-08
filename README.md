@@ -28,8 +28,8 @@
   
 <h3 align="center">Front-end</h3>
   <td>
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png"width="48" height="48"/> 
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/> 
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="50" height="50"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="50" height="50"/> 
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   </td>
   
