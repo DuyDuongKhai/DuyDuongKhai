@@ -26,7 +26,7 @@
 ## Skills:
 <p align="center">
 - Front-end 
-  <img src="https://fontawesome.com/icons/html5?s=brands"  width="48" height="48"/> 
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png"width="48" height="48"/> 
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
