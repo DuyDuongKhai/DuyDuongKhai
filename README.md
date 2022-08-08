@@ -63,7 +63,7 @@
 
 <p align="center">
   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/EHX4V6UHX6Y5">
-    <img alt="Introduction to JavaScript" title="Introduction to JavaScript" src="certificates/Coursera%20XFNU3UXCK5DG.png" width="300px" />
+    <img alt="Software Development Lifecycle" title="Software Development Lifecycle" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~EHX4V6UHX6Y5/CERTIFICATE_LANDING_PAGE~EHX4V6UHX6Y5.jpeg" width="300px" />
   </a>
   <a href="https://www.coursera.org/account/accomplishments/certificate/MBSDFCKQ9X8E">
     <img alt="Audio Classification with TensorFlow" title="Audio Classification with TensorFlow" src="certificates/Coursera%20MBSDFCKQ9X8E.png" width="300px" />
