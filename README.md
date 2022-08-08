@@ -33,7 +33,7 @@
    </p>
  <h3>Back-end</h3> 
  <p align="center"> 
-  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-java-computer-programming-flaticons-flat-flat-icons.png"/> width="60" height="60"/>
+  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-java-computer-programming-flaticons-flat-flat-icons.png" width="60" height="60"/>
    <img src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" width="60" height="60"/>
     <img src="https://play-lh.googleusercontent.com/uGqP7F-E_eaEwTb3hMz63MWf0YKRSK6n9INBwibBSOrGDg6B3sd-ACuqNrR312ohdQ" width="60" height="60"/>
      <img src="https://img.icons8.com/fluency/48/000000/javascript.png" width="60" height="60"/>
