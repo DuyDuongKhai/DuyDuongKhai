@@ -59,15 +59,15 @@
 
 <p align="center">
   <a href="https://coursera.org/share/e431a2f09e8424d912831b8962eee623">
-    <img alt="Web Design for Everybody: Basics of Web Development & Coding" title="Web Design for Everybody: Basics of Web Development & Coding" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~Y2RNKY2MS3RN/CERTIFICATE_LANDING_PAGE~Y2RNKY2MS3RN.jpeg" width="200px" />
+    <img alt="Web Design for Everybody: Basics of Web Development & Coding" title="Web Design for Everybody: Basics of Web Development & Coding" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~Y2RNKY2MS3RN/CERTIFICATE_LANDING_PAGE~Y2RNKY2MS3RN.jpeg" width="300px" />
   </a>
   <a href="https://coursera.org/share/56afccbf8951acc325a9cd048bb89650">
-    <img alt="Computer Communications" title="Computer Communications" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~JUY9RXRWN9E6/CERTIFICATE_LANDING_PAGE~JUY9RXRWN9E6.jpeg" width="200px" />
+    <img alt="Computer Communications" title="Computer Communications" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~JUY9RXRWN9E6/CERTIFICATE_LANDING_PAGE~JUY9RXRWN9E6.jpeg" width="300px" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://coursera.org/share/5f35b2879c6f630bebf9ae20774115b4">
-    <img alt="Academic Skills for University Success" title="Academic Skills for University Success" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~5JZDKPCJMZLM/CERTIFICATE_LANDING_PAGE~5JZDKPCJMZLM.jpeg" width="200px" />
+    <img alt="Academic Skills for University Success" title="Academic Skills for University Success" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~5JZDKPCJMZLM/CERTIFICATE_LANDING_PAGE~5JZDKPCJMZLM.jpeg" width="300px" />
   </a>
 </p>
