@@ -24,21 +24,25 @@
 </p>
 
 ## Skills:
-<p align="center">
+<p align="center"> 
 <h3>Front-end</h3> 
    <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="60" height="60"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="60" height="60"/> 
    <img src="https://ih1.redbubble.net/image.382749689.2902/mp,504x498,matte,f8f8f8,t-pad,600x600,f8f8f8.u2.jpg" width="60" height="60"/>
    <img src="https://media.techmaster.vn/api/fileman/Uploads/users/6551/boostrap-4/icon.png" width="60" height="60"/>
+   </p>
  <h3>Back-end</h3> 
+ <p align="center"> 
   <img src="https://banner2.cleanpng.com/20190623/uxe/kisspng-logo-java-development-kit-portable-network-graphic-5d0f25d6871765.6875406615612738145533.jpg" width="60" height="60"/>
    <img src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" width="60" height="60"/>
     <img src="https://play-lh.googleusercontent.com/uGqP7F-E_eaEwTb3hMz63MWf0YKRSK6n9INBwibBSOrGDg6B3sd-ACuqNrR312ohdQ" width="60" height="60"/>
      <img src="https://ih1.redbubble.net/image.382749689.2902/mp,504x498,matte,f8f8f8,t-pad,600x600,f8f8f8.u2.jpg" width="60" height="60"/>
+  </p>
   <h3>Databse</h3> 
+  <p align="center"> 
   <img src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" width="60" height="60"/>
-  
-</p>
+  </p>
+
 
 <table style="width:100%;">
   <tr>
