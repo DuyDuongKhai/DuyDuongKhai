@@ -26,8 +26,8 @@
 ## Skills:
 <h3>Front-end</h3> 
 <p align="center"> 
-   <img src="https://icons8.com/icon/20909/html-5" width="60" height="60"/>
-   <img src="https://icons8.com/icon/21278/css3" width="60" height="60"/> 
+   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="60" height="60"/>
+   <img src="https://img.icons8.com/color/48/000000/css3.png" width="60" height="60"/> 
    <img src="https://img.icons8.com/fluency/48/000000/javascript.png" width="60" height="60"/>
    <img src="https://media.techmaster.vn/api/fileman/Uploads/users/6551/boostrap-4/icon.png" width="60" height="60"/>
    </p>
