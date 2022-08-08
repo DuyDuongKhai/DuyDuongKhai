@@ -62,7 +62,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.coursera.org/account/accomplishments/certificate/XFNU3UXCK5DG">
+  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/EHX4V6UHX6Y5">
     <img alt="Introduction to JavaScript" title="Introduction to JavaScript" src="certificates/Coursera%20XFNU3UXCK5DG.png" width="300px" />
   </a>
   <a href="https://www.coursera.org/account/accomplishments/certificate/MBSDFCKQ9X8E">
