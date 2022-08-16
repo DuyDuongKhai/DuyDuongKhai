@@ -10,7 +10,7 @@
 - My major:  **SOFTWARE ENGINEERING**
 
 
-## 📫 How to reach me:
+## How to reach me:
 <p align="center">
   <a href="https://www.linkedin.com/in/duy-d%C6%B0%C6%A1ng-738033248/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
