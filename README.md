@@ -1,4 +1,5 @@
 <h1 align="center">I'm Duong Khai Duy</h1>
+## Information:
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">BACKEND DEVELOPER (INTERNSHIP)</h3>
 
