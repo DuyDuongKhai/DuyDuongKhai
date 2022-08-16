@@ -5,6 +5,7 @@
 <h3 align="center">BACKEND DEVELOPER (INTERNSHIP)</h3>
 
 - I'm a student of: [FPT University](https://daihoc.fpt.edu.vn)
+- Address: Ho Chi Minh City
 - Birthday: 10/04/2001
 - Phone: 0911375725
 - My major:  **SOFTWARE ENGINEERING**
