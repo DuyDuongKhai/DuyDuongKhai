@@ -2,7 +2,7 @@
 <h1 align="center">I'm Duong Khai Duy</h1>
 
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h3 align="center">BACKEND DEVELOPER (INTERNSHIP)</h3>
+<h3 align="center">BACKEND DEVELOPER</h3>
 
 - I'm a student of: [FPT University](https://daihoc.fpt.edu.vn)
 - Address: Ho Chi Minh City
